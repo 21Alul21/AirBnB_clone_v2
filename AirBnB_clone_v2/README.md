@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AirBnB_clone
 
 **Description**
@@ -17,10 +16,3 @@ We accomplish this in the following steps:
 - datetime
 - uuid
 - json
-=======
-# System Engineering and Devops
- This repository contains solutions
- to tasks on sytem engineering and devops,
- done during the ome year alx sofware engineering
- program.
->>>>>>> c0a785f42ed99415c1dc2275ce0b11cf04ab5adf
